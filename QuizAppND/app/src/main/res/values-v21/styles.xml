@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="MyButton" parent="android:Widget.Button">
+        <item name="android:textColor">#DCEDC8</item>
+        <item name="android:backgroundTint" tools:targetApi="lollipop">#00BCD4</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

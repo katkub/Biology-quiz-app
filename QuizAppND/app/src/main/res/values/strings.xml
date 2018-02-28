@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BIOLOGY QUIZ</string>
+
+    <!-- For MainActivity -->
+    <string name="mainText">Test your general biology knowledge!</string>
+    <string name="putName">Name to display</string>
+    <string name="please">Add your name below, to start.</string>
+    <string name="start">Start</string>
+
+    <!-- For question1 Activity -->
+    <string name="title_activity_question_one">Question 1</string>
+    <string name="question1">Laws of segregation and dominance were given by..:</string>
+    <string name="a1">Darwin</string>
+    <string name="b1">Morgan</string>
+    <string name="c1">Mendel</string>
+    <string name="question2">An animal that eats only meat is called..:</string>
+    <string name="a2">Ambivore</string>
+    <string name="b2">Carnivore</string>
+    <string name="c2">Herbivore</string>
+    <string name="question3">What do we call the most basic structure of living things?</string>
+    <string name="a3">Cell</string>
+    <string name="b3">DNA</string>
+    <string name="c3">Skin</string>
+    <string name="question4">Which blood group is called the "universal donor"?</string>
+    <string name="a4">"A"</string>
+    <string name="b4">"B"</string>
+    <string name="c4">"0"</string>
+    <string name="question5">Which group of animals is Charles Darwin best known for studying?</string>
+    <string name="a5">Birds</string>
+    <string name="b5">Whales</string>
+    <string name="c5">Lizards</string>
+    <string name="question6">A banana plant fits into which of these groups?</string>
+    <string name="a6">Trees</string>
+    <string name="b6">Herbs</string>
+    <string name="c6">Flowers</string>
+
+    <string name="next">NEXT</string>
+
+    <!-- For question2 Activity -->
+    <string name="what">Check the true answers:</string>
+    <string name="one">Plants receive their nutrients mainly from soil.</string>
+    <string name="two">Insulin is an enzyme.</string>
+    <string name="three">Bamboo is classified as grass.</string>
+    <string name="four">The richest source of vitamin D is cod liver oil.</string>
+    <string name="five">Elephants are most highly intelligent mammals.</string>
+    <string name="six">Milk is poor source of calcium.</string>
+
+    <!-- For question3 Activity -->
+    <string name="multi">Fill in the missing sentences:</string>
+    <string name="writeAnswer">correct answer</string>
+    <string name="submit">SUBMIT</string>
+    <string name="open1q">... is the most abundant constituent of atmospheric air.</string>
+    <string name="open1a">Oxygen/Carbon/Nitrogen</string>
+    <string name="open2q">... is the study of cell.</string>
+    <string name="open2a">Cytology/Cryobiology/Bacteriology</string>
+    <string name="open3q">Pigmentation of skin is due to...</string>
+    <string name="open3a">lymphocytes/melanocytes/monocytes</string>
+
+    <!-- For totalPoints Activity -->
+    <string name="total">Total points:</string>
+    <string name="comment">Comment:</string>
+    <string name="bad">Could be better! Maybe try again? :)</string>
+    <string name="almost">It is good, but not great! Maybe try again? :)</string>
+    <string name="great">Great! You are really smart! Good job :)</string>
+    <string name="non">Try again, and check something!</string>
+</resources>
